@@ -1,3 +1,10 @@
+// ===============================================
+// ZenEyee
+// Copyright (c) 2026 aresthebellator
+// Version: 1.0 
+// ===============================================
+
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
